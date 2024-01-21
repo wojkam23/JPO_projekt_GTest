@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\JPO_projekt\GTest_oczko\test\x64\Debug\test.vcxproj.CopyComplete
+C:\Users\DELL\Desktop\JPO_projekt\GTest_oczko\test\x64\Debug\test.exe
+C:\Users\DELL\Desktop\JPO_projekt\GTest_oczko\test\x64\Debug\gtest.pdb
+C:\Users\DELL\Desktop\JPO_projekt\GTest_oczko\test\x64\Debug\gtest_main.pdb
